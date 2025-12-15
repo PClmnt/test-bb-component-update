@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "metadata": { "svelteMajor": 5 },
+  "metadata": {},
   "schema": {
     "name": "test-component-update",
     "friendlyName": "test-component-update",
